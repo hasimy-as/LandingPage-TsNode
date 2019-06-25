@@ -1,8 +1,7 @@
 # app-ts_node
 A Node.js Web Application using Typescript as it's main file.
 
-## Version 1.0.1
-Updated to be a landing page template.
+## Version 1.0.0
 
 ### Usage
 
