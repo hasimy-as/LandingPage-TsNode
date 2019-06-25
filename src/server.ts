@@ -6,10 +6,10 @@ app.set("view engine", "ejs");
 app.use(express.static("public"));
 
 //render
-app.get("/", (req, res) => {
-  res.write("Hello programmers!");
+app.get("/", function(req, res) {
+  res.render("index");
 });
 
-app.listen(port, () => {
+app.listen(port, function() {
   console.log(`Port in localhost:${port}`);
 });
