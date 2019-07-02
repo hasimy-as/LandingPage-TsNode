@@ -1,4 +1,4 @@
-# app-ts_node
+# Typescript-Node
 A Node.js Web Application using Typescript as it's main server file.
 
 ## Version 1.0.1
