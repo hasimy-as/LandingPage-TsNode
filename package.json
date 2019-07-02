@@ -1,5 +1,5 @@
 {
-  "name": "app-ts_node",
+  "name": "Typescript-Node",
   "version": "1.0.0",
   "description": "A Node.js Web Application using Typescript as it's main file.",
   "main": "server.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasimy-as/app-ts_node.git"
+    "url": "git+https://github.com/hasimy-as/Typescript-Node.git"
   },
   "author": "Hasimy",
   "license": "MIT",
@@ -26,7 +26,7 @@
     "semantic-ui-icon": "^2.3.3"
   },
   "bugs": {
-    "url": "https://github.com/hasimy-as/app-ts_node/issues"
+    "url": "https://github.com/hasimy-as/Typescript-Node/issues"
   },
-  "homepage": "https://github.com/hasimy-as/app-ts_node#readme"
+  "homepage": "https://github.com/hasimy-as/Typescript-Node#readme"
 }
